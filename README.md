@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header.gif)
 <h1 align="center">Hi 👋, I'm Mahmudur Rahman</h1>
 <h3 align="center">A Passionate Mobile Application Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src= "./UI.gif">
